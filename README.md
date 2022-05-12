@@ -1,6 +1,7 @@
 # Complier_Project
 
 Grammar for this language is as follow :
+
     program → Program Identifier Begin declarations statements End
     declarations → declarations Var Identifier | ε
     statements → statements statement | ε
